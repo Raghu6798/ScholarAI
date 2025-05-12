@@ -1,4 +1,8 @@
 # ScholarAI 
+
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
+
 ScholarAI is a modern SaaS platform that leverages advanced AI and LLMs to help students and educators interact with academic content in new ways. Upload textbooks, lecture notes, images, or videos and get contextual, AI-powered answers and study support.
 
 ---

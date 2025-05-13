@@ -102,25 +102,6 @@ ScholarAI is a modern SaaS platform that leverages advanced AI and LLMs to help 
 
 ---
 
-## 🌐 Deployment
-
-- **Frontend:** Deployable on Vercel, Netlify, or any static hosting.
-- **Backend:** Deployable on any cloud VM, Docker, or Kubernetes.
-- **Docker:** Both frontend and backend have Dockerfiles for containerized deployment.
-
----
-
-## 📝 API Overview
-
-- `/document-qa/upload` — Upload a PDF document.
-- `/document-qa/ask` — Ask a question about an uploaded document.
-- `/image-qa/upload` — Upload an image or provide a URL.
-- `/image-qa/ask` — Ask a question about an uploaded image.
-- `/video-qa/upload` — Upload a video file.
-- `/video-qa/process-youtube` — Process a YouTube video.
-- `/video-qa/ask` — Ask a question about an uploaded or processed video.
-
-All endpoints require authentication.
 
 ---
 

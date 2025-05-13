@@ -38,7 +38,6 @@ const SignIn: React.FC = () => {
     try {
       const { error } = await signInWithGoogle();
       if (error) throw error;
-      navigate('/');
     } catch (error: any) {
       setError(error.message || 'Failed to sign in with Google');
       setLoading(false);
